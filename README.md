@@ -4,7 +4,7 @@
 what performancemode does:
 
 1. it changes displaying your patch from edit to presentation mode (no cables, no unneeded objects)
-2. it disables all screen eating taskbars, unnecessary stuff, just your patch fullscreen in presentation mode
+2. it hides all screen eating taskbars, unnecessary stuff, just your patch fullscreen in presentation mode
 3. it sends a terminal command (via shell) using 'caffeinate -d' (macOS only! + check your OS version... apple might have done some changes; there are tons of forum reports about this). this disables your lockscreen and your screensaver until performance mode is undone and you've returned to edit mode (without having anything to change in your energy settings). so, imagine you're on stage with 10 minutes of nothing to do an then comes your important part... suddenly locking screens and type in password requests won't happen anymore :)
 
 
